@@ -1,0 +1,6 @@
+.DS_Store
+
+.idea/
+allure-results/
+target/
+vikta_ui_tests.log
