@@ -1,6 +1,8 @@
 .DS_Store
+Vikta-docker/
 
 .idea/
 allure-results/
 target/
 vikta_ui_tests.log
+vikta-ui-tests-testng-sample.iml
